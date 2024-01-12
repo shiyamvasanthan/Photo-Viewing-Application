@@ -26,5 +26,3 @@ Compilation Instructions:
 3. Type Options from "0" through "5" to test different classes or exit the program
 4. Type "valgrind ./a2" in the terminal to execute program using valgrind. When done check to see there's no memory leaks
 5. Type "make clean" in the terminal to clean all the object files and the executable
-
-Note: For some reason my album description doesn't print out. I don't know why because I initalized the description correctly in the Album class.
